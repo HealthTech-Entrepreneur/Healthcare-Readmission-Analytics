@@ -1,6 +1,3 @@
-# Healthcare-Readmission-Analytics
-An end to end Readmission Analytics project using 56000 records of Kaggle data to help making better decisions to reduce readmission rates. 
-
 # Healthcare Readmission Analytics Pipeline & Executive Dashboards
 
 An end-to-end data engineering and business intelligence solution that transforms raw patient encounter data into protected, structured SQL views and interactive executive dashboards.
